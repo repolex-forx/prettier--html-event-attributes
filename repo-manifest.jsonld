@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/prettier/html-event-attributes/commit/d13b4f0050fa97f7733f2884b6ce5e8a61210aea",
       "git:hexsha": "d13b4f0050fa97f7733f2884b6ce5e8a61210aea",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T06:55:07.338850+00:00"
     },
     {
       "@id": "https://repolex.ai/r/prettier/html-event-attributes/commit/4b1299e78bb3929d4f9bf31e3491b2bdbeae45f1",
